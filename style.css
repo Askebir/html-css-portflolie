@@ -408,3 +408,8 @@ span {
   background-color: var(--bg-color);
   width: 50px;
 }
+
+.services h2 {
+  margin-bottom: 1rem;
+  color: white;
+}
